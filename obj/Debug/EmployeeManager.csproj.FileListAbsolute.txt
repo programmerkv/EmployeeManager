@@ -1,0 +1,8 @@
+C:\Users\Khoa Vo\source\repos\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.exe.config
+C:\Users\Khoa Vo\source\repos\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.exe
+C:\Users\Khoa Vo\source\repos\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.pdb
+C:\Users\Khoa Vo\source\repos\EmployeeManager\EmployeeManager\bin\Debug\MySql.Data.dll
+C:\Users\Khoa Vo\source\repos\EmployeeManager\EmployeeManager\bin\Debug\MySql.Data.xml
+C:\Users\Khoa Vo\source\repos\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csproj.CoreCompileInputs.cache
+C:\Users\Khoa Vo\source\repos\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.exe
+C:\Users\Khoa Vo\source\repos\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.pdb
